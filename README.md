@@ -1,5 +1,6 @@
 ## Hi there, I'm Herbert👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Frontend+Developer;Software+Engineering+student)](https://git.io/typing-svg)
 
 <!--
 **herbertDev12/herbertDev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
