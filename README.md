@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Herbert👋
+![image](https://github.com/user-attachments/assets/5777453a-e17c-4342-877f-55b185b1c9c6)
 
 <!--
 **herbertDev12/herbertDev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
