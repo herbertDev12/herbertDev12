@@ -1,4 +1,4 @@
-<img width="1071" height="360" alt="image" src="/herbertDev12/header.jpeg" />
+![programmer](header.jpeg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Herbert👋;Software+Engineering+student📚;Junior+Frontend+Developer💻🔥;)](https://git.io/typing-svg)
 
