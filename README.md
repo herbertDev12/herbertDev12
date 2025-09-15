@@ -1,6 +1,8 @@
 ![programmer](header.jpeg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Herbert👋;Software+Engineering+student📚;Junior+Frontend+Developer💻🔥;)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Herbert👋;Software+Engineering+student📚;Junior+Frontend+Developer💻🔥;)](https://git.io/typing-svg)
+<div>
 
 ## Personal Stuff:
 
