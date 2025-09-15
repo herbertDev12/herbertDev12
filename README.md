@@ -4,9 +4,9 @@
 
 ## Personal Stuff:
 
-- 🚀 I’m currently learning Full Stack Development.
-- 👨🏻‍💻 I’m currently working in my data structures
-- 💡 fun fact: CSS has over 520 different properties! But you only need to master about 50 to create incredible designs.
+- 🚀 I’m currently learning _Full Stack Development_.
+- 👨🏻‍💻 I’m currently working on my _data structures_.
+- 💡 _Fun fact_: CSS has over 520 different properties! But you only need to master about 50 to create incredible designs.
 - 📫 How to reach me: herbertn740@gmail.com.
 
 ## 💻 Technologies:
