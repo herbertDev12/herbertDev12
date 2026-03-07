@@ -2,12 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Herbert👋;Software+Engineering+student📚;Junior+Frontend+Developer💻🔥;)](https://git.io/typing-svg)
 
-## Personal Stuff:
+## 👨‍💻 About Me
 
-- 🚀 I’m currently learning **Full Stack Development**.
-- 👨🏻‍💻 I’m currently working on my **Data Structures**.
-- 💡 **Fun fact**: CSS has over 520 different properties! But you only need to master about 50 to create incredible designs.
-- 📫 How to reach me: herbertn740@gmail.com.
+- ⚛️ I’ve been working with **React.js for over 2 years**, building modern and dynamic web applications.
+- 💻 **Frontend Developer at Avangenio** with **1 year and 4 months of professional experience** building and improving web interfaces.
+- 🎓 **Second-year Software Engineering student at CUJAE** (Technological University of Havana), Cuba.
+- 🚀 Currently expanding my skills in **Full Stack Development**.
+- 🧠 Studying **System Design** to better understand scalable and maintainable architectures.
+- 🎨 Passionate about creating **clean, responsive, and user-friendly web experiences**.
+- 💡 **Fun fact:** CSS has over **520 properties**, but mastering about **50** is enough to build amazing designs.
+- 📫 Reach me at **herbertn740@gmail.com**
 
 ## 💻 Technologies:
 
