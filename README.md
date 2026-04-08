@@ -1,11 +1,11 @@
 ![programmer](header.jpeg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Herbert👋;Software+Engineering+student📚;Junior+Frontend+Developer💻🔥;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Herbert👋;Software+Engineering+student📚;Fullstack+Web+Developer💻🔥;)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
 - ⚛️ I’ve been working with **React.js for over 2 years**, building modern and dynamic web applications.
-- 💻 **Frontend Developer at Avangenio** with **1 year and 4 months of professional experience** building and improving web interfaces.
+- 💻 **Full Stack Developer at Avangenio** with **1 year and 4 months of professional experience** building web apps.
 - 🎓 **Second-year Software Engineering student at CUJAE** (Technological University of Havana), Cuba.
 - 🚀 Currently expanding my skills in **Full Stack Development**.
 - 🧠 Studying **System Design** to better understand scalable and maintainable architectures.
