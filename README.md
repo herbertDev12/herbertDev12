@@ -7,10 +7,9 @@
 - ⚛️ I’ve been working with **React.js for over 2 years**, building modern and dynamic web applications.
 - 💻 **Full Stack Developer at Avangenio** with **1 year and 4 months of professional experience** building web apps.
 - 🎓 **Second-year Software Engineering student at CUJAE** (Technological University of Havana), Cuba.
-- 🚀 Currently expanding my skills in **Full Stack Development**.
+- 🚀 Currently expanding my skills in **Software Architecture**.
 - 🧠 Studying **System Design** to better understand scalable and maintainable architectures.
 - 🎨 Passionate about creating **clean, responsive, and user-friendly web experiences**.
-- 💡 **Fun fact:** CSS has over **520 properties**, but mastering about **50** is enough to build amazing designs.
 - 📫 Reach me at **herbertn740@gmail.com**
 
 ## 💻 Technologies:
