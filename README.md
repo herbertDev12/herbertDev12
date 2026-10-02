@@ -6,7 +6,6 @@
 
 - ⚛️ I’ve been working with **React.js for over 2 years**, building modern and dynamic web applications.
 - 🚀 I’ve been working with **Nest.js for over 1 year**, building scalable and efficient backend applications.
-- 💻 **Full Stack Developer at Avangenio** with **2 years of professional experience** building web apps.
 - 🎓 **Third-year Software Engineering student at CUJAE** (Technological University of Havana), Cuba.
 - 📘 Currently reading **Fundamentals of Software Architecture** by Mark Richards and Neal Ford
 - 🎨 Passionate about creating **clean, responsive, and user-friendly web experiences**.
